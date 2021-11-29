@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(216, 36, 36);
+    text-align: center;
+}
+
+.list {
+    width: 60px;
+    height: auto;
+    border: solid 3px gery;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px auto;
+}
